@@ -1,4 +1,4 @@
-# Catatan Belajar — Simple Linear Regression
+# Simple Linear Regression
 
 > Versi ringkas untuk dibaca ulang. Untuk contoh kode, grafik, dan latihan yang lebih lengkap, buka notebook `.ipynb`.
 
